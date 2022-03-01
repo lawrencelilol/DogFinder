@@ -13,7 +13,7 @@ The Submit button is used to record the user's choice.
 
 
 
-Figure 3 and Figure 4  shows the output screen. Several facts have been scraped from the web site:
+Figure 3 and Figure 4  show the output screen. Several facts have been scraped from the web site:
 
 <img width="306" alt="image" src="https://user-images.githubusercontent.com/35508198/156235825-f81eaeaf-8889-4289-90ae-5ddd591e5c56.png">Figure 3
 
@@ -25,7 +25,6 @@ Next, a picture of a representative of the breed is shown. This is retrieved fro
 
 > https://dog.ceo/dog-api/
 
-using that site's API.
 
 
 
