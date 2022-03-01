@@ -8,7 +8,10 @@ The Submit button is used to record the user's choice.
 
 <img width="401" alt="image" src="https://user-images.githubusercontent.com/35508198/156235578-fbfca451-84a3-453a-b093-c8a2b61d4740.png">Figure 1
 
+
 <img width="260" alt="image" src="https://user-images.githubusercontent.com/35508198/156235649-5aa06d31-77cc-41c5-a1e1-b5a68644cfd2.png">Figure 2
+
+
 
 Figure 3 and Figure 4  shows the output screen. Several facts have been scraped from the web site:
 
@@ -20,7 +23,7 @@ These facts include the star ratings for friendliness and intelligence, the heig
 
 Next, a picture of a representative of the breed is shown. This is retrieved from a different site:
 
-https://dog.ceo/dog-api/
+> https://dog.ceo/dog-api/
 
 using that site's API.
 
